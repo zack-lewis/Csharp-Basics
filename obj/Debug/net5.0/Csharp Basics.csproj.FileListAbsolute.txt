@@ -1,0 +1,16 @@
+C:\Users\Zack\Documents\VSCode\Csharp Basics\bin\Debug\net5.0\Csharp Basics.exe
+C:\Users\Zack\Documents\VSCode\Csharp Basics\bin\Debug\net5.0\Csharp Basics.deps.json
+C:\Users\Zack\Documents\VSCode\Csharp Basics\bin\Debug\net5.0\Csharp Basics.runtimeconfig.json
+C:\Users\Zack\Documents\VSCode\Csharp Basics\bin\Debug\net5.0\Csharp Basics.runtimeconfig.dev.json
+C:\Users\Zack\Documents\VSCode\Csharp Basics\bin\Debug\net5.0\Csharp Basics.dll
+C:\Users\Zack\Documents\VSCode\Csharp Basics\bin\Debug\net5.0\ref\Csharp Basics.dll
+C:\Users\Zack\Documents\VSCode\Csharp Basics\bin\Debug\net5.0\Csharp Basics.pdb
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.csproj.AssemblyReference.cache
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.AssemblyInfoInputs.cache
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.AssemblyInfo.cs
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.dll
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\ref\Csharp Basics.dll
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.pdb
+C:\Users\Zack\Documents\VSCode\Csharp Basics\obj\Debug\net5.0\Csharp Basics.genruntimeconfig.cache
